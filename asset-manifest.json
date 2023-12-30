@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-react-camera/static/css/main.cab3dc11.css",
+    "main.js": "/my-react-camera/static/js/main.b5063f84.js",
+    "static/js/787.9e2339ba.chunk.js": "/my-react-camera/static/js/787.9e2339ba.chunk.js",
+    "static/media/facingIcon.svg": "/my-react-camera/static/media/facingIcon.c8c8f0165d48c6e66aea7dc2de082c9b.svg",
+    "index.html": "/my-react-camera/index.html",
+    "main.cab3dc11.css.map": "/my-react-camera/static/css/main.cab3dc11.css.map",
+    "main.b5063f84.js.map": "/my-react-camera/static/js/main.b5063f84.js.map",
+    "787.9e2339ba.chunk.js.map": "/my-react-camera/static/js/787.9e2339ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cab3dc11.css",
+    "static/js/main.b5063f84.js"
+  ]
+}
