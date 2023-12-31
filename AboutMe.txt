@@ -1,8 +1,3 @@
-https://www.youtube.com/watch?v=gk0LtMJDoiw&list=PLOa95Q78GmW4hSUc86YNQiXOIVjz95ThA&ab_channel=%D0%A2%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%D0%92%D0%B5%D0%B1%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA
-*****************************************************************
-Как получить видео из вебкамеры в React JS
-
-
 Deployment !!!!
 =================
 
@@ -10,23 +5,6 @@ Deployment !!!!
 *******************************************************************
 https://vk.com/video/@tipichnyjvebrazrabotchik?z=video-222570561_456239045%2Fclub222570561%2Fpl_-222570561_-2
 
-I tried this video and it didn't work for me, but I don't remove the GitHub Desktop Setup-x64.exe installation.
 
-
-What really were excellent NB!!! Video:
-https://www.youtube.com/watch?v=7wzuievFjrk&ab_channel=CodeWithAjesh
-
-I successfully deployed the "my-react-camera" using it. 
-Much simpler and more productive and shorter !!!
-
-Attention on 4:57/5:43 npm run dev !!!
-
-VERY IMPORTANT !!!
-Starting from time code 5:10 and until the end of the video, play everything only as shown, 
-slowly and making every time (even twice) refreshments after each step and slowly because 
-the git's UI is disorienting !!!
-
-It's bible to deploy in git ng-pages !!!
-Enjoy !!!
-
-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+rmdir .git
